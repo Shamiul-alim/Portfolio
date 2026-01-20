@@ -20,11 +20,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={inter.className} suppressHydrationWarning>
-      <body
-        className="min-h-dvh bg-[#0f172a] text-[#e2e8f0]"
-        suppressHydrationWarning
-      >
+    <html lang="en" className={inter.className}>
+      <body className="min-h-dvh bg-[#0f172a] text-[#e2e8f0]">
         <SpotlightPreview />
         {children}
       </body>
