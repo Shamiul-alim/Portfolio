@@ -1,6 +1,7 @@
 {
     "projects": [
         {
+            "id": "1",
             "name": "Event-Buddy",
             "desc": "Event Buddy is a full-stack web application for event management. It provides a user-friendly interface for event registration and keeping track of upcoming activities.",
             "tech": [
@@ -14,6 +15,7 @@
             "image": "/images/event-buddy.png"
         },
         {
+            "id": "2",
             "name": "Survival Game",
             "desc": "A 2D top-down survival game where enemies learn from your playstyle using Q-learning. Experience dynamic combat that evolves as you play.",
             "tech": [
@@ -23,6 +25,7 @@
             "image": "/images/survival-game.png"
         },
         {
+            "id": "3",
             "name": "DriveX",
             "desc": "DriveX is a dynamic and user-friendly platform designed to streamline ride booking and payment processes, offering seamless interaction for users. It integrates real-time car availability, dynamic pricing, and multiple payment methods to enhance the customer experience.",
             "tech": [

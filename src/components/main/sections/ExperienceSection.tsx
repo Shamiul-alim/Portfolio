@@ -3,9 +3,9 @@ export default function ExperienceSection() {
   return (
     <section id="experience" className="scroll-mt-16 lg:scroll-mt-24">
       <div className="group/list">
-        {experiencesData.experiences.map((item, index) => (
+        {experiencesData.experiences.map((item) => (
           <div
-            key={index}
+            key={item.id}
             className="group relative grid pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-80 lg:group-hover/list:opacity-50 mb-12"
           >
             {/* Background Hover Effect */}

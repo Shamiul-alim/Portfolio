@@ -1,6 +1,7 @@
 {
     "experiences": [
         {
+            "id": "1",
             "time": "01/2026 — PRESENT",
             "title": "Full Stack Developer",
             "subTitles": [
@@ -21,6 +22,7 @@
             "link": "https://klaviyo.com"
         },
         {
+            "id": "2",
             "time": "01/2025 — 06/2025",
             "title": "Full Stack Web Developer",
             "subTitles": [

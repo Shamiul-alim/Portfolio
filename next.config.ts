@@ -1,10 +1,14 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  experimental: {
-    serverComponentsHmrCache: true,
-    turbopackFileSystemCacheForDev: true,
-  }
+  images: {
+
+    unoptimized: true,
+  },
+
+  typescript: {
+    ignoreBuildErrors: false,
+  },
 };
 
 export default nextConfig;

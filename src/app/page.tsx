@@ -1,10 +1,10 @@
 import MainContent from "@/components/main/MainContent";
 import Sidebar from "@/components/sidebar/Sidebar";
+import { JSX } from "react";
 
-export default function page() {
+export default function page(): JSX.Element {
   return (
     <main className="relative min-h-dvh">
-      
       <div className="absolute inset-0 bg-[#0f172a]" />
 
       <div className="relative mx-auto flex min-h-dvh max-w-7xl px-6 py-24 md:px-10">

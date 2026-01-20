@@ -4,9 +4,9 @@ export default function ProjectsSection() {
   return (
     <section id="projects" className="scroll-mt-16 lg:scroll-mt-24">
       <div className="group/list">
-        {projectData.projects.map((p, index) => (
+        {projectData.projects.map((p) => (
           <div
-            key={index}
+            key={p.id}
             className="group relative grid gap-4 pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-80 lg:group-hover/list:opacity-50 mb-12"
           >
             {/* Background Hover Effect */}

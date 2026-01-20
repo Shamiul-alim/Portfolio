@@ -2,14 +2,14 @@
 name = "my-next-app"
 
 [runtime]
-env = "production"
+ NODE_ENV = "production"
 
 [define]
-"process.env.NODE_ENV" = "'development'"
+"process.env.NODE_ENV" = "'production'"
 
 [env]
 NEXT_TELEMETRY_DISABLED = "1"
-NEXT_TURBOPACK_TRACING = "1"
+NEXT_TURBOPACK_TRACING = true
 
 
 [install]
