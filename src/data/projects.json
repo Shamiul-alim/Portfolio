@@ -1,0 +1,37 @@
+{
+    "projects": [
+        {
+            "name": "Event-Buddy",
+            "desc": "Event Buddy is a full-stack web application for event management. It provides a user-friendly interface for event registration and keeping track of upcoming activities.",
+            "tech": [
+                "Next.js",
+                "NestJs",
+                "TailwindCSS",
+                "TypeScript",
+                "PostgreSQL"
+            ],
+            "link": "https://github.com/Shamiul-alim/Event-Buddy.git",
+            "image": "/images/event-buddy.png"
+        },
+        {
+            "name": "Survival Game",
+            "desc": "A 2D top-down survival game where enemies learn from your playstyle using Q-learning. Experience dynamic combat that evolves as you play.",
+            "tech": [
+                "Python"
+            ],
+            "link": "https://github.com/Shamiul-alim/Survival-Game.git",
+            "image": "/images/survival-game.png"
+        },
+        {
+            "name": "DriveX",
+            "desc": "DriveX is a dynamic and user-friendly platform designed to streamline ride booking and payment processes, offering seamless interaction for users. It integrates real-time car availability, dynamic pricing, and multiple payment methods to enhance the customer experience.",
+            "tech": [
+                "Html",
+                "CSS",
+                "Javascript"
+            ],
+            "link": "https://github.com/Shamiul-alim/DriveX.git",
+            "image": "/images/driveX.png"
+        }
+    ]
+}

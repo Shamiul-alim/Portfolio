@@ -1,0 +1,41 @@
+{
+    "experiences": [
+        {
+            "time": "01/2026 — PRESENT",
+            "title": "Full Stack Developer",
+            "subTitles": [
+                "Intern",
+                "Remote"
+            ],
+            "company": "DeepChain Lab",
+            "description": "Build and maintain critical components used to construct Klaviyo’s frontend, across the whole product. Work closely with cross-functional teams, including developers, designers, and product managers, to implement and advocate for best practices in web accessibility.",
+            "tech": [
+                "Next.js",
+                "NestJS",
+                "Node.js",
+                "TypeScript",
+                "Tailwind CSS",
+                "Bun",
+                "PostgreSQL"
+            ],
+            "link": "https://klaviyo.com"
+        },
+        {
+            "time": "01/2025 — 06/2025",
+            "title": "Full Stack Web Developer",
+            "subTitles": [
+                "Remote"
+            ],
+            "company": "Fleeting Trails",
+            "description": "Designed and developed a responsive B2C website and dynamic Admin Panel from scratch (Figma → ReactJS) with intuitive user flows, reusable components, scalable architecture, and Redux-based state management for seamless user experiences.",
+            "tech": [
+                "React",
+                "React Native",
+                "Tailwind CSS",
+                "WordPress",
+                "JavaScript"
+            ],
+            "link": "https://www.fleetingtrails.com/#services"
+        }
+    ]
+}
