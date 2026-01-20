@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 
 export default function PixelPerfectGlow() {
-  const [mousePos, setMousePos] = useState({ x: 0, y: 0 });
+  const [mousePos, setMousePos] = useState({ x: -1000, y: -1000 });
 
   useEffect(() => {
     const handleMouseMove = (e: MouseEvent) => {
